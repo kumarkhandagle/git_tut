@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+ERROR: 
+Time: 3 ns  Iteration: 0  Process: /tb_adder/Initial38_0  Scope: tb_adder  File: C:/Users/kumar/Desktop/Vivado_git/project_1/project_1.srcs/sim_1/new/adder_tb.v Line: 58
+$finish called at time : 3 ns
