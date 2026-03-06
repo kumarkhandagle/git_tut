@@ -47,7 +47,11 @@ initial begin
     // Test 3
     a=10; b=5; cin=1; #1;
     check(1,1);
-	
+	    
+		
+	// Test 4
+    a=0; b=0; cin=0; #1;
+    check(0,0);
 
     // Final result
     if (errors == 0) begin
