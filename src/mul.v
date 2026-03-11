@@ -5,5 +5,6 @@ module multiplier (
 );
 
 assign product = a * b;
+assign error = a ^ b;
 
 endmodule
